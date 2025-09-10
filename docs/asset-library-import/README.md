@@ -9,6 +9,7 @@ Follow the step-by-step instructions below to quickly build a world without star
 4. [Sliding Doors](#4-sliding-doors)
 
 ---
+Watch the tutorial on YouTube
 
 [![Watch the video](https://img.youtube.com/vi/zI97uj-i-D4/hqdefault.jpg)](https://www.youtube.com/embed/zI97uj-i-D4)
 
