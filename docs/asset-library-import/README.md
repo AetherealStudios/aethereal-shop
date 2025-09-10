@@ -10,6 +10,8 @@ Follow the step-by-step instructions below to quickly build a world without star
 
 ---
 
+[![Watch the video](https://img.youtube.com/vi/zI97uj-i-D4/hqdefault.jpg)](https://www.youtube.com/embed/zI97uj-i-D4)
+
 ## 1 Getting Started  
 
 ### 1 Import the Kit  
@@ -53,8 +55,6 @@ With just a few simple steps, you can assemble a wide variety of custom building
 2. Set **grid snapping** to **0.25** for accurate alignment  
 
 That’s it — your sliding doors are ready to go!
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/zI97uj-i-D4?si=A9emWI-pMaERMUEu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # 2 The AD Panel
 In this section we will see the Ad Panel functionalities
